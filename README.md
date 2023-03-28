@@ -1,5 +1,5 @@
 # LA_robocode_2
-package MeyerFabian;
+```package MeyerFabian;
 import robocode.JuniorRobot;
 
 public class MeyerFabian extends JuniorRobot {
@@ -18,3 +18,4 @@ public class MeyerFabian extends JuniorRobot {
         fire(2);
     }
 }
+```
